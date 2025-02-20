@@ -1,0 +1,7 @@
+{
+  "name": "English Tutor Anki Addon",
+  "author": "Cleber Ribeiro <cleber.ramos.ribeiro@gmail.com>",
+  "description": "An Add-on to make cards through IA.",
+  "version": "1.0.0",
+  "min_api_version": 40
+}
