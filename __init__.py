@@ -1,5 +1,5 @@
-from .check_dependencies import install_requirements
-install_requirements()
+# from .check_dependencies import install_requirements
+# install_requirements()
 
 from aqt import mw
 from aqt.qt import QAction, qconnect

@@ -1,2 +1,4 @@
 addon_english_tutor_venv/
 venv/
+.vscode/
+__pycache__/
